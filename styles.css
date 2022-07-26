@@ -1,0 +1,23 @@
+.nike-react{
+    color: #FA804C;
+    font-size: 5rem;
+}
+.infinity-run{
+   color:#363958;
+   font-size: 5rem;
+   
+}
+.buy-now{
+    background-image:linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%); 
+    color: white;
+    padding: 1rem;
+    width: 11rem;
+    height: 4rem;
+}
+i{
+    margin-right: 0.5rem;
+}
+.price{
+    color:#FA804C;
+    margin-left: 2rem;
+}
